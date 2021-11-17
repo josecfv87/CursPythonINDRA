@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Lib/
+Scripts/
+__pycache__/
+build/
+dist/
+ejemplo_python.py
+hola.spec
+pyvenv.cfg
